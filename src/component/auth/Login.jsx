@@ -57,7 +57,7 @@ alert('invalid input')
     <>
     <div className='registerPage' style={{width:"100vw",height:"100vh", display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",  background:  "linear-gradient(rgba(255, 255, 255, 0.45),rgba(0, 0, 0, 0.45)),url(https://images.pexels.com/photos/194096/pexels-photo-194096.jpeg)",backgroundSize:"cover"}}>
 
-     <div style={{width:"480px",minHeight:"350px",maxHeight:"100vh",backgroundColor:"#fff",padding:"20px"}}>
+     <div style={{width:"480px",minHeight:"350px",maxHeight:"100vh",backgroundColor:"#fff",padding:"60px"}}>
 
        <h1>login</h1>
        <div> 
